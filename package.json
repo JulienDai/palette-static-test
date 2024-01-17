@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@staticcms/core": "^4.0.1"
+  }
+}
